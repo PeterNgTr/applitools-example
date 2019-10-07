@@ -1,0 +1,20 @@
+{
+  "name": "applitools-example",
+  "version": "1.0.0",
+  "description": "This is an example repo for using applitools",
+  "main": "",
+  "dependencies": {
+    "codeceptjs": "2.3.2",
+    "codeceptjs-applitoolshelper": "1.1.2",
+    "webdriverio": "5.14.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "applitools"
+  ],
+  "author": "peterngtr",
+  "license": "ISC"
+}
