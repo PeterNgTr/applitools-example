@@ -4,9 +4,9 @@
   "description": "This is an example repo for using applitools",
   "main": "",
   "dependencies": {
-    "codeceptjs": "2.3.2",
-    "codeceptjs-applitoolshelper": "1.1.2",
-    "webdriverio": "5.14.4"
+    "codeceptjs": "2.3.6",
+    "codeceptjs-applitoolshelper": "1.1.5",
+    "webdriverio": "5.16.9"
   },
   "devDependencies": {},
   "scripts": {
